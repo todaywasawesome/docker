@@ -40,5 +40,3 @@ ENV PATH $BALLERINA_HOME/bin:$PATH
 
 WORKDIR /home/ballerina
 VOLUME /home/ballerina
-
-USER ballerina
